@@ -1,0 +1,24 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header img{
+  width: 40px;
+}
+header ul{
+  display: flex;
+  
+}
+header ul li{
+  padding-left: 10px;
+  list-style: none;
+}
+ */
